@@ -6,6 +6,10 @@ Collection of test tones for audio system checks and decoder testing.
 
 If you are looking for test audios these are probably worth checking out.  
 
+#### [EBU Sound Quality Assessment Material](https://tech.ebu.ch/publications/sqamcd)
+
+It includes test audio, instrument recordings, and speeches.
+
 ### Speech
 
 #### [I Have a Dream, Martin Luther King Jr.](https://archive.org/details/MLKDream)
