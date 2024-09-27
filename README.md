@@ -48,3 +48,7 @@ Anechoic room recordings and IRs of various spaces are available.
 #### [Sonic Palimpsest Impulse Response library](https://research.kent.ac.uk/sonic-palimpsest/impulse-responses/)
 
 #### [GPU Audio FREE IR Pack](https://www.soundonsound.com/news/gpu-audio-offering-free-impulse-responses)
+
+### HRTF
+
+#### [IRCAM LISTEN HRTF DATABASE](http://recherche.ircam.fr/equipes/salles/listen/index.html)
