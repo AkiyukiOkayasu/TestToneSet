@@ -10,6 +10,10 @@ If you are looking for test audios these are probably worth checking out.
 
 It includes test audio, instrument recordings, and speeches.
 
+#### [BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
+
+Huge library of environmental sounds and sound effects. Licences must be noted. Sound can also be purchased.  
+
 ### Speech
 
 #### [I Have a Dream, Martin Luther King Jr.](https://archive.org/details/MLKDream)
