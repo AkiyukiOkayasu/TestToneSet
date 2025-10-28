@@ -52,3 +52,9 @@ Anechoic room recordings and IRs of various spaces are available.
 ### HRTF
 
 #### [IRCAM LISTEN HRTF DATABASE](http://recherche.ircam.fr/equipes/salles/listen/index.html)
+
+### Dataset for machine learning
+
+#### [SignalTrain LA2A Dataset](https://zenodo.org/records/3824876)
+
+A collection of recorded data from an analog Teletronix LA-2A opto-electronic compressor, for various settings of the Peak Reduction knob.  Other knobs were kept constant.  
